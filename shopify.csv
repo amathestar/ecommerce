@@ -1,0 +1,21 @@
+OrderID,OrderDate,CustomerID,CustomerName,Email,Country,City,ProductID,ProductName,Category,Price,Quantity,TotalAmount,PaymentMethod,FulfillmentStatus,OrderStatus,Device
+1001,2025-01-02,C001,John Mensah,john@gmail.com,Ghana,Accra,P101,Wireless Mouse,Electronics,25,2,50,Card,Fulfilled,Completed,Mobile
+1002,2025-01-03,C002,Ama Owusu,ama@yahoo.com,Ghana,Kumasi,P102,Running Shoes,Fashion,80,1,80,Mobile Money,Fulfilled,Completed,Desktop
+1003,2025-01-03,C003,Kofi Asante,kofi@gmail.com,Ghana,Takoradi,P103,Backpack,Accessories,40,1,40,Cash,Pending,Pending,Mobile
+1004,2025-01-04,C001,John Mensah,john@gmail.com,Ghana,Accra,P104,Keyboard,Electronics,45,1,45,Card,Fulfilled,Completed,Desktop
+1005,2025-01-05,C004,Esi Boateng,esi@gmail.com,Ghana,Accra,P105,T-shirt,Fashion,20,3,60,Mobile Money,Fulfilled,Completed,Mobile
+1006,2025-01-06,C005,Yaw Appiah,yaw@yahoo.com,Ghana,Kumasi,P101,Wireless Mouse,Electronics,25,1,25,Card,Cancelled,Cancelled,Mobile
+1007,2025-01-06,C006,Akosua Adu,akosua@gmail.com,Ghana,Accra,P106,Smart Watch,Electronics,120,1,120,Card,Fulfilled,Completed,Desktop
+1008,2025-01-07,C007,Kojo Darko,kojo@gmail.com,Ghana,Tema,P107,Headphones,Electronics,60,2,120,Mobile Money,Fulfilled,Completed,Mobile
+1009,2025-01-08,C008,Abena Osei,abena@gmail.com,Ghana,Kumasi,P102,Running Shoes,Fashion,80,1,80,Cash,Pending,Pending,Desktop
+1010,2025-01-09,C009,Michael Smith,mike@gmail.com,UK,London,P108,Jacket,Fashion,100,1,100,Card,Fulfilled,Completed,Desktop
+1011,2025-01-10,C010,Sarah Lee,sarah@gmail.com,USA,New York,P109,Sunglasses,Accessories,50,2,100,Card,Fulfilled,Completed,Mobile
+1012,2025-01-11,C011,Daniel Brown,daniel@gmail.com,Ghana,Accra,P110,Laptop Stand,Electronics,70,1,70,Mobile Money,Fulfilled,Completed,Desktop
+1013,2025-01-12,C002,Ama Owusu,ama@yahoo.com,Ghana,Kumasi,P105,T-shirt,Fashion,20,2,40,Card,Fulfilled,Completed,Mobile
+1014,2025-01-13,C012,Nana Kwame,nana@gmail.com,Ghana,Takoradi,P111,Office Chair,Furniture,150,1,150,Card,Fulfilled,Completed,Desktop
+1015,2025-01-14,C013,Grace Taylor,grace@gmail.com,USA,Chicago,P107,Headphones,Electronics,60,1,60,Card,Returned,Returned,Mobile
+1016,2025-01-15,C014,Peter Mensah,peter@gmail.com,Ghana,Accra,P103,Backpack,Accessories,40,2,80,Mobile Money,Fulfilled,Completed,Mobile
+1017,2025-01-16,C015,Linda Johnson,linda@gmail.com,UK,Manchester,P106,Smart Watch,Electronics,120,1,120,Card,Fulfilled,Completed,Desktop
+1018,2025-01-17,C016,David Kim,david@gmail.com,Canada,Toronto,P112,Tablet,Electronics,200,1,200,Card,Fulfilled,Completed,Mobile
+1019,2025-01-18,C017,Emma Wilson,emma@gmail.com,Ghana,Kumasi,P108,Jacket,Fashion,100,1,100,Cash,Pending,Pending,Desktop
+1020,2025-01-19,C018,Chris Evans,chris@gmail.com,USA,LA,P109,Sunglasses,Accessories,50,3,150,Card,Fulfilled,Completed,Mobile
